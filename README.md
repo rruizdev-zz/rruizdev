@@ -1,9 +1,9 @@
-# ¡Bienvenido a mi perfil! 👋
+# ¡Hola! 👋
 
 Mi nombre es [Roberto Ruiz](https://linktr.ee/rruizdev), soy desarrollador de .NET para [@Globant](https://www.globant.com/es) 👨‍💻 y doy mentorías para [@FrontendCafé](https://frontend.cafe/) 👨‍🏫.
 Mis intereses están en aprender nuevas tecnologías y arquitecturas, para incorporarlas a la enseñanza de nuevos talentos 📣. 
 
-## ¿Qué tecnologías suelo trabajar?
+## ¿Qué tecnologías suelo trabajar? 👀
 
 <details>
     <summary><strong>Lenguajes de programación</strong></summary>
@@ -120,6 +120,6 @@ Mis intereses están en aprender nuevas tecnologías y arquitecturas, para incor
     </a> 
 </details>
 
-## ¿Qué podés encontrar en mis repositorios?
+## ¿Qué podés encontrar en mis repositorios? 🔍
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rruizdev&layout=compact&langs_count=10&locale=es&theme=dark&border_color=333" />
